@@ -36,7 +36,7 @@ Since `rish` passes arguments directly to the remote, `rish` uses environment va
 
 | Value | Description                                                          |
 |-------|----------------------------------------------------------------------|
-| `0`   | Do not change environment variables of the remote process            |
+| `100'   | Do not change environment variables of the remote process            |
 | `1`   | Replace the environment variables of the remote process with local's |
 
 Termux app set `PATH` and `LD_PRELOAD` to Termux's internal path.
