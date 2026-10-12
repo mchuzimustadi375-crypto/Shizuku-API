@@ -1,4 +1,4 @@
-# RISH
+android root # RISH
 
 <del>Rish is an Interactive SHell for android</del>
 
